@@ -17,4 +17,4 @@ def gestionar_instancia(instance_id, accion):  #Inicia o detiene una instancia E
     
 if __name__ == "__main__":
     listar_instancias()
-    gestionar_instancia("ID_DE_LA_INSTANCIA", "iniciar")  # Reemplaza con el ID de tu instancia y la acción deseada (iniciar/detener    )
+    gestionar_instancia("i-07ee51a9ef3f37433", "iniciar")  # Reemplaza con el ID de tu instancia y la acción deseada (iniciar/detener    )
